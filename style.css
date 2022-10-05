@@ -1,0 +1,34 @@
+body {
+    margin: 0 auto;
+    background-color: blue;
+}
+
+.main-post {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem; 
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+  
+}
+
+.icon-title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    
+}
